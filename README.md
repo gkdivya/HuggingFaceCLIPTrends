@@ -22,6 +22,6 @@ As seen in the gradio output...
 >>>>>>> c2217c8a3fa2d78e86a98609fed9e6c89c13790a
 
 ### Contributing:
-For any questions, bug(even typos) and/or features requests do not hesitate to contact 
-[GK Divya](gkdivya), [Pankaja Shankar](pankaja0285) <br />
+For any questions, bug(even typos) and/or features requests do not hesitate to contact <br/>
+[GK Divya](gkdivya), <br/>[Pankaja Shankar](pankaja0285) <br/>
 or, open an issue!
