@@ -23,6 +23,5 @@ As seen in the gradio output...
 
 ### Contributing:
 For any questions, bug(even typos) and/or features requests do not hesitate to contact 
-[GK Divya](gkdivya), <br />
-[Pankaja Shankar](pankaja0285) <br />
+[GK Divya](gkdivya), [Pankaja Shankar](pankaja0285) <br />
 or, open an issue!
