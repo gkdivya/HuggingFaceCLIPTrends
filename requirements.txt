@@ -6,3 +6,4 @@ torch
 openai-clip
 tqdm
 Pillow
+pytrends
