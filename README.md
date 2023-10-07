@@ -20,3 +20,9 @@ As seen in the gradio output...
 
 <img width="1723" alt="Screenshot 2023-10-07 at 8 46 57 AM" src="https://github.com/gkdivya/HuggingFaceCLIPTrends/assets/17870236/ef54ca6a-8466-44ac-b03c-0202c5203d9a">
 >>>>>>> c2217c8a3fa2d78e86a98609fed9e6c89c13790a
+
+### Contributing:
+For any questions, bug(even typos) and/or features requests do not hesitate to contact 
+[GK Divya](gkdivya)
+[Pankaja Shankar](pankaja0285)
+or, open an issue!
